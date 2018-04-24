@@ -1,0 +1,19 @@
+{
+  "name": "wikistack",
+  "version": "1.0.0",
+  "description": "Wikistack Fullstack App",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ivanfex/wikistack.git"
+  },
+  "author": "I&D",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ivanfex/wikistack/issues"
+  },
+  "homepage": "https://github.com/ivanfex/wikistack#readme"
+}
